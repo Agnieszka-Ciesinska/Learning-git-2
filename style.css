@@ -1,20 +1,20 @@
-p {
-    font-family: 'Playfair Display', serif;
-}
-
-h1 {
-    font-family: 'Playfair Display', serif;
-}
-
 body {
-    text-align: center;
-    background-image: url(https://i.postimg.cc/zvMWDPqv/pexels-prashant-gautam-3783385.jpg)
+    background-color: #CAD3C8;
+    font-family: 'Playfair Display', serif;
 }
 
 h1 {
-    color: #ffffff;
+    color: #2C3A47;
+}
+
+.main {
+    text-align: center;
+}
+
+.inner-main {
+    font-family: 'Playfair Display', serif;
 }
 
 i {
-    color: #d1d8e0;
+    color: #58B19F;
 }
