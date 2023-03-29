@@ -1,0 +1,4 @@
+Komenda do instalacji html-validate:
+npm install --save-dev html-validate
+Komenda uruchamiajaca html-validate w taki sposób, by wyświetliła listę błędów we wszystkich plikach .html.
+npm exec html-validate *.html
